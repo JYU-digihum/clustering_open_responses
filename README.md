@@ -17,6 +17,7 @@ In this notebook we
     5. perform k-means clustering and visualize the results with t-distributed stochastic neighbor embedding (t-SNE),
     6. make wordclouds of clusters using lemmatized loneliness data.
 
+The notebook can also be copied from [Colab](https://colab.research.google.com/drive/1v8UpvuwO_qoHG9upb3CrMzEMvZdgagvM) (File -> Save a copy in Drive).
 
 ## Running the example code
 
@@ -36,8 +37,8 @@ Pre-requisites:
 - kaleido 0.2.1
 
 How to get started
-1. Install ["Turku Neural Parser"](https://turkunlp.org/Turku-neural-parser-pipeline/) to your computer.
-2. Install ["Jupyter notebook"](https://jupyter.org/install).
+1. Install [Turku Neural Parser](https://turkunlp.org/Turku-neural-parser-pipeline/) to your computer.
+2. Install [Jupyter notebook](https://jupyter.org/install).
 3. Run the notebook by starting jupyter on the command line:
 ```{cmd}
 jupyter notebook
@@ -52,5 +53,3 @@ Reference:
 ```
 Toivanen, I., Lampi, A., Sihto, T., Oinas, T. & Taipale, S. (2024). Vanhustyöntekijöiden teknologiaan liittämät tunteet – avovastausten analysoiminen tekoälypohjaisen klusteroinnin keinoin. In press.
 ```
-
-
