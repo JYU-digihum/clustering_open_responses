@@ -51,5 +51,5 @@ This repository has been produced as part of the infrastructure project [FIN-CLA
 
 Reference:
 ```
-Toivanen, I., Lampi, A., Sihto, T., Oinas, T. & Taipale, S. (2024). Vanhustyöntekijöiden teknologiaan liittämät tunteet – avovastausten analysoiminen tekoälypohjaisen klusteroinnin keinoin. In press.
+Toivanen, I., Lampi, A., Sihto, T., Oinas, T. & Taipale, S. (2024). Vanhustyöntekijöiden teknologiaan liittämät tunteet – avovastausten analysoiminen tekoälypohjaisen klusteroinnin keinoin. Sosiaalilääketieteellinen aikakauslehti. In press.
 ```
