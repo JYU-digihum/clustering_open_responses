@@ -45,6 +45,12 @@ jupyter notebook
 ```
 4. Download the dataset from here: [FSD3360 Helsingin Sanomat Loneliness Survey 2014](https://services.fsd.tuni.fi/catalogue/FSD3360?tab=description&lang=en&study_language=en). Alternatively, use your own dataset (csv file).
 
+## TODO
+
+- re-checking libraries and their versions needed for localling running the code 
+- input data as other than csv (txt, tsv etc.)
+- enhancing usability: generate a zip file of all outputs, command line version etc.
+
 ## Acknowledgements
 
 This repository has been produced as part of the infrastructure project [FIN-CLARIAH ](https://www.jyu.fi/en/projects/fin-clariah).
@@ -53,3 +59,5 @@ Reference:
 ```
 Toivanen, I., Lampi, A., Sihto, T., Oinas, T. & Taipale, S. (2024). Vanhustyöntekijöiden teknologiaan liittämät tunteet – avovastausten analysoiminen tekoälypohjaisen klusteroinnin keinoin. Sosiaalilääketieteellinen aikakauslehti. In press.
 ```
+
+
