@@ -47,7 +47,7 @@ jupyter notebook
 
 ## TODO
 
-- re-checking libraries and their versions needed for localling running the code 
+- re-checking libraries and their versions needed for locally running the code 
 - input data as other than csv (txt, tsv etc.)
 - enhancing usability: generate a zip file of all outputs, command line version etc.
 
