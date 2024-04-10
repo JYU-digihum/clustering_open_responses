@@ -49,6 +49,7 @@ How to get started
 git clone https://github.com/JYU-digihum/clustering_open_responses.git
 ```
 Alternatively, you can download the repository as a zip file (in the repository click Code -> Download ZIP).
+
 4. Run the notebook by starting Jupyter on the command line:
 ```{cmd}
 jupyter notebook
