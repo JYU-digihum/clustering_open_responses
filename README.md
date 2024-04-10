@@ -10,6 +10,7 @@ In this notebook we apply clustering to open-ended responses in survey data usin
 The data includes the following open-ended question: "Miltä yksinäisyys tuntuu? Yksinäisyyteen liittyy usein voimakkaita tunteita, jotka ovat erilaisia eri elämäntilanteissa. Jos haluat, voit kertoa yksinäisyyskokemuksiasi tässä." (trans. "How does loneliness feel? Loneliness is often associated with strong emotions, which vary across different life situations. If you want, you can share your experiences of loneliness here.") 
 
 In this notebook we will show how to:
+
     1. install and import necessary libraries,
     2. preprocess loneliness data,
     3. perform principal component analysis (PCA) for feature reduction,
