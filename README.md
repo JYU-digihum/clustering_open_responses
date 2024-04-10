@@ -43,7 +43,7 @@ Tested with the following versions of packages:
 
 How to get started
 1. Install [Turku Neural Parser](https://turkunlp.org/Turku-neural-parser-pipeline/) on your computer. 
-2. Install [Jupyter notebook](https://jupyter.org/install).
+2. Install [Jupyter Notebook](https://jupyter.org/install).
 3. Clone the repository on the command line:
 ```{cmd}
 git clone https://github.com/JYU-digihum/clustering_open_responses.git
