@@ -54,7 +54,7 @@ Alternatively, you can download the repository as a zip file (in the repository 
 ```{cmd}
 jupyter notebook
 ```
-5. Download the dataset from here: [FSD3360 Helsingin Sanomat Loneliness Survey 2014](https://services.fsd.tuni.fi/catalogue/FSD3360?tab=description&lang=en&study_language=en). Alternatively, you can use your own dataset (csv file). Also, download the list of stopwords (e.g., from [here](https://github.com/stopwords-iso/stopwords-fi), and place these two files under the same directory as the notebook.
+5. Download the dataset from here: [FSD3360 Helsingin Sanomat Loneliness Survey 2014](https://services.fsd.tuni.fi/catalogue/FSD3360?tab=description&lang=en&study_language=en). Alternatively, you can use your own dataset (csv file). Also, download the list of stopwords (e.g., from [here](https://github.com/stopwords-iso/stopwords-fi)), and place these two files under the same directory as the notebook.
 
 ## TODO
 
