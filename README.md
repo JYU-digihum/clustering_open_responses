@@ -59,7 +59,7 @@ jupyter notebook
 - re-check libraries and their versions needed to run the code locally 
 - input data in other format than csv (txt, tsv etc.)
 - improve usability: create a zip file of all outputs, command line versions etc.
-- having (Trankit)[https://github.com/nlp-uoregon/trankit] as an alternative library to lemmatization (will provide you almost as good performance in lemmatization as Turku Neural Parser for Finnish text)
+- having [Trankit](https://github.com/nlp-uoregon/trankit) as an alternative library to lemmatization (will provide you almost as good performance in lemmatization as Turku Neural Parser for Finnish text)
 
 ## Acknowledgements
 
