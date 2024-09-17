@@ -67,9 +67,24 @@ jupyter notebook
 
 This repository has been produced as part of the [FIN-CLARIAH ](https://www.jyu.fi/en/projects/fin-clariah) infrastructure project.
 
-Reference:
+## Reference
+
+APA:
 ```
-Toivanen, I., Lampi, A., Sihto, T., Oinas, T. & Taipale, S. (2024). Vanhustyöntekijöiden teknologiaan liittämät tunteet – avovastausten analysoiminen tekoälypohjaisen klusteroinnin keinoin. Sosiaalilääketieteellinen aikakauslehti. In press.
+Toivanen, I., Lampi, A., Sihto, T., Oinas, T., & Taipale, S. (2024). Vanhustyöntekijöiden teknologiaan liittämät tunteet – avovastausten analysoiminen tekoälypohjaisen klusteroinnin keinoin. Sosiaalilääketieteellinen Aikakauslehti, 61(3). https://doi.org/10.23990/sa.138287
 ```
 
-
+BibTeX:
+```
+@article{Toivanen_Lampi_Sihto_Oinas_Taipale_2024,
+title={Vanhustyöntekijöiden teknologiaan liittämät tunteet – avovastausten analysoiminen tekoälypohjaisen klusteroinnin keinoin},
+volume={61},
+url={https://journal.fi/sla/article/view/138287},
+DOI={10.23990/sa.138287},
+number={3},
+journal={Sosiaalilääketieteellinen Aikakauslehti},
+author={Toivanen, Ida and Lampi, Anna and Sihto, Tiina and Oinas, Tomi and Taipale, Sakari},
+year={2024},
+month={syys}
+}
+```
